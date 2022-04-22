@@ -1,0 +1,11 @@
+127.0.0.1 - - [21/Apr/2022:15:47:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:15:47:15 +0530] "GET /BusinessTripRequest/login.jsp HTTP/1.1" 200 254
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:15:47:19 +0530] "GET /BusinessTripRequest/index.jsp HTTP/1.1" 200 1399
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:15:47:19 +0530] "GET /BusinessTripRequest/css/login_style.css HTTP/1.1" 200 1653
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:15:47:35 +0530] "POST /BusinessTripRequest/login.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:15:47:39 +0530] "GET /BusinessTripRequest/admin/admin-pending-request.jsp HTTP/1.1" 200 6057
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:15:47:39 +0530] "GET /BusinessTripRequest/css/sidebar-style.css HTTP/1.1" 200 3352
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:15:47:39 +0530] "GET /BusinessTripRequest/css/bootstrap.min.css HTTP/1.1" 200 140427
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:15:47:48 +0530] "GET /BusinessTripRequest/admin/all-employee.jsp HTTP/1.1" 200 6854
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:17:16:20 +0530] "GET /BusinessTripRequest/css/sidebar-style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:17:16:20 +0530] "GET /BusinessTripRequest/css/bootstrap.min.css HTTP/1.1" 304 -
